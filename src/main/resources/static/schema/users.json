@@ -1,0 +1,89 @@
+{
+  "fields": [
+    {
+      "name": "_id",
+      "path": "_id",
+      "count": 5,
+      "types": [
+        {
+          "name": "ObjectID",
+          "bsonType": "ObjectID",
+          "path": "_id",
+          "count": 5,
+          "values": [
+            "5f71779f7fe56e05e8f635bb",
+            "5f7177ac67f3c5df17425a98",
+            "5f7177d567f3c5df17425a99",
+            "5f7177f067f3c5df17425a9a",
+            "5f71780d67f3c5df17425a9b"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 5,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 5,
+      "type": "ObjectID",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "name",
+      "path": "name",
+      "count": 5,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "name",
+          "count": 5,
+          "values": [
+            "Elsa Ingram",
+            "Paul Marsh",
+            "D Joshi",
+            "Nick Holden",
+            "John"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 5,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 5,
+      "type": "String",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "opid",
+      "path": "opid",
+      "count": 5,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "opid",
+          "count": 5,
+          "values": [
+            "elsi",
+            "paum",
+            "djos",
+            "nich",
+            "john"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 5,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 5,
+      "type": "String",
+      "has_duplicates": false,
+      "probability": 1
+    }
+  ],
+  "count": 5
+}

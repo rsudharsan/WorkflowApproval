@@ -1,0 +1,197 @@
+{
+  "fields": [
+    {
+      "name": "_id",
+      "path": "_id",
+      "count": 1,
+      "types": [
+        {
+          "name": "ObjectID",
+          "bsonType": "ObjectID",
+          "path": "_id",
+          "count": 1,
+          "values": [
+            "5f72115e7aec0d4d1aeca184"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 1,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 1,
+      "type": "ObjectID",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "_class",
+      "path": "_class",
+      "count": 1,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "_class",
+          "count": 1,
+          "values": [
+            "com.sudhr.approval.pojo.Task"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 1,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 1,
+      "type": "String",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "isVisible",
+      "path": "isVisible",
+      "count": 1,
+      "types": [
+        {
+          "name": "Boolean",
+          "bsonType": "Boolean",
+          "path": "isVisible",
+          "count": 1,
+          "values": [
+            false
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 1,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 1,
+      "type": "Boolean",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "nextTaskId",
+      "path": "nextTaskId",
+      "count": 1,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "nextTaskId",
+          "count": 1,
+          "values": [
+            ""
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 1,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 1,
+      "type": "String",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "order",
+      "path": "order",
+      "count": 1,
+      "types": [
+        {
+          "name": "Int32",
+          "bsonType": "Int32",
+          "path": "order",
+          "count": 1,
+          "values": [
+            1
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 1,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 1,
+      "type": "Int32",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "userAction",
+      "path": "userAction",
+      "count": 1,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "userAction",
+          "count": 1,
+          "values": [
+            ""
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 1,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 1,
+      "type": "String",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "userId",
+      "path": "userId",
+      "count": 1,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "userId",
+          "count": 1,
+          "values": [
+            "5f7177f067f3c5df17425a9a"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 1,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 1,
+      "type": "String",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "workflowId",
+      "path": "workflowId",
+      "count": 1,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "workflowId",
+          "count": 1,
+          "values": [
+            "5f72113f7aec0d4d1aeca182"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 1,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 1,
+      "type": "String",
+      "has_duplicates": false,
+      "probability": 1
+    }
+  ],
+  "count": 1
+}

@@ -1,0 +1,182 @@
+{
+  "fields": [
+    {
+      "name": "_id",
+      "path": "_id",
+      "count": 1,
+      "types": [
+        {
+          "name": "ObjectID",
+          "bsonType": "ObjectID",
+          "path": "_id",
+          "count": 1,
+          "values": [
+            "5f71bdf593504d5e0967fbdd"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 1,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 1,
+      "type": "ObjectID",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "_class",
+      "path": "_class",
+      "count": 1,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "_class",
+          "count": 1,
+          "values": [
+            "com.sudhr.approval.pojo.Level"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 1,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 1,
+      "type": "String",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "approvals",
+      "path": "approvals",
+      "count": 1,
+      "types": [
+        {
+          "name": "Array",
+          "bsonType": "Array",
+          "path": "approvals",
+          "count": 1,
+          "types": [
+            {
+              "name": "Document",
+              "bsonType": "Document",
+              "path": "approvals",
+              "count": 2,
+              "fields": [
+                {
+                  "name": "user",
+                  "path": "approvals.user",
+                  "count": 2,
+                  "types": [
+                    {
+                      "name": "Document",
+                      "bsonType": "Document",
+                      "path": "approvals.user",
+                      "count": 2,
+                      "fields": [
+                        {
+                          "name": "_id",
+                          "path": "approvals.user._id",
+                          "count": 2,
+                          "types": [
+                            {
+                              "name": "ObjectID",
+                              "bsonType": "ObjectID",
+                              "path": "approvals.user._id",
+                              "count": 2,
+                              "values": [
+                                "5f71780d67f3c5df17425a9b",
+                                "5f7177f067f3c5df17425a9a"
+                              ],
+                              "total_count": 0,
+                              "probability": 1,
+                              "unique": 2,
+                              "has_duplicates": false
+                            }
+                          ],
+                          "total_count": 2,
+                          "type": "ObjectID",
+                          "has_duplicates": false,
+                          "probability": 1
+                        }
+                      ],
+                      "total_count": 0,
+                      "probability": 1
+                    }
+                  ],
+                  "total_count": 2,
+                  "type": "Document",
+                  "has_duplicates": false,
+                  "probability": 1
+                }
+              ],
+              "total_count": 0,
+              "probability": 1
+            }
+          ],
+          "lengths": [
+            2
+          ],
+          "total_count": 2,
+          "probability": 1,
+          "average_length": 2
+        }
+      ],
+      "total_count": 1,
+      "type": "Array",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "description",
+      "path": "description",
+      "count": 1,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "description",
+          "count": 1,
+          "values": [
+            "testLevel2"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 1,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 1,
+      "type": "String",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "type",
+      "path": "type",
+      "count": 1,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "type",
+          "count": 1,
+          "values": [
+            "SEQ"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 1,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 1,
+      "type": "String",
+      "has_duplicates": false,
+      "probability": 1
+    }
+  ],
+  "count": 1
+}
